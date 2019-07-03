@@ -3,6 +3,10 @@ Data Engineering RoadMap
 
 ![Roadmap]( https://raw.githubusercontent.com/hasbrain/data-engineer-roadmap/master/path_resources/roadmap.png)
 
+https://github.com/andkret/Cookbook/blob/master/Data%20Engineering%20Cookbook.pdf
+
+Data Engineering Tutorials
+==========================
 
 Data Engineering Tools
 ==========================
@@ -11,17 +15,21 @@ A curated list of data engineering tools for software developers [![Awesome](htt
 
 List of content
 
-1. [Databases](#databases)
-2. [Ingestion](#data-ingestion)
-3. [File System](#file-system)
-4. [Serialization format](#serialization-format)
-5. [Stream Processing](#stream-processing)
-6. [Batch Processing](#batch-processing)
-7. [Charts and Dashboards](#charts-and-dashboards)
-8. [Workflow](#workflow)
-9. [Datasets](#datasets)
-10. [Monitoring](#monitoring)
-11. [Docker](#docker)
+1. [Programming](#python)
+2. [Databases](#databases)
+3. [Ingestion](#data-ingestion)
+4. [File System](#file-system)
+5. [Serialization format](#serialization-format)
+6. [Stream Processing](#stream-processing)
+7. [Batch Processing](#batch-processing)
+8. [Charts and Dashboards](#charts-and-dashboards)
+9. [Workflow](#workflow)
+10. [Datasets](#datasets)
+11. [Monitoring](#monitoring)
+12. [Docker](#docker)
+
+# Python
+ * [python](https://realpython.com/installing-python/) Python Installation.
 
 # Databases
 - Relational
