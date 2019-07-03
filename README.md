@@ -1,4 +1,10 @@
-Awesome Data Engineering
+Data Engineering RoadMap
+==========================
+
+![Roadmap]( https://raw.githubusercontent.com/hasbrain/data-engineer-roadmap/master/path_resources/roadmap.png)
+
+
+Data Engineering Tools
 ==========================
 
 A curated list of data engineering tools for software developers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
